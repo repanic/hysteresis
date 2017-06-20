@@ -5,8 +5,8 @@ A MATLAB code for modelling and elimination of hysteresis effect from Scintrex C
 "Modelling Hysteresis Effect in Scintrex CG-3M Gravity Readings"
 Geophysical Prospecting
 
-Marija Repaniæ
-State Geodetic Administration, Gruška 20, 10000 Zagreb, Croatia,
+Marija Repanic
+State Geodetic Administration, GruÅ¡ka 20, 10000 Zagreb, Croatia,
 e-mail: marijarepanic@yahoo.com (Corresponding author).
 
 Miran Kuhar
