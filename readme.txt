@@ -3,7 +3,7 @@ Hysteresis
 A MATLAB code for modelling and elimination of hysteresis effect from Scintrex CG-3M gravity readings.
 
 "Modelling Hysteresis Effect in Scintrex CG-3M Gravity Readings"
-Geophysical Prospecting
+Geophysical Prospecting 66 (1), January 2018, Pages 257–269.
 
 Marija Repanic
 State Geodetic Administration, Gruška 20, 10000 Zagreb, Croatia,
